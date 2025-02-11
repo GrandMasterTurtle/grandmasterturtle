@@ -1,17 +1,23 @@
-# About Me
+# 👋 About Me  
 
-- Hi! I'm a detail-oriented Computer Science student with experience in C++, Python, Java, and JavaScript. I'm passionate about expanding my coding skills, currently developing my proficiency in SQL, database design, and assembly language.
+Hi! I'm **Excalibur Bunker**, a detail-oriented **Computer Science student** passionate about problem-solving and software development. I have experience in **C++, Python, Java, and JavaScript** and am currently expanding my expertise in **SQL, database design, and assembly language**.  
 
-## I'm currently working on...
+## 🚀 What I'm Working On  
 
-- Building a Discord bot using Node.js to provide interactive linear function solutions for college algebra students. This is part of my ongoing self-taught JavaScript education for my Capstone Research project.
-I'm currently learning...
+- **📌 Capstone Research Project**: Developing a **Discord bot** using **Node.js** to provide interactive **linear function solutions** for college algebra students. This project enhances educational technology by offering step-by-step breakdowns of math problems.  
+- **🔍 Expanding My Tech Stack**:  
+  - Learning **SQL** and database design fundamentals to improve my backend development skills.  
+  - Diving into **assembly language** to understand low-level computer architecture.  
 
-- SQL and the fundamentals of database design.
-- Assembly language, diving into the inner workings of computer architecture.
+## 💡 Ask Me About  
 
-## Ask me about...
+- Object-oriented programming (**C++, Java, Python**)  
+- Educational technology and creating interactive learning tools  
+- Challenges and rewards of self-directed coding projects  
+- Database design and SQL fundamentals  
 
-- My experience with object-oriented programming languages.
-- Educational technology and creating helpful learning tools.
-- The challenges and rewards of self-directed coding projects.
+## 📫 Let's Connect!  
+
+- **GitHub**: [GrandMasterTurtle](https://github.com/GrandMasterTurtle)  
+- **LinkedIn**: [Excalibur Bunker](https://www.linkedin.com/in/excalibur-bunker)  
+- **Email**: Excalibur.l.bunker@outlook.com  
